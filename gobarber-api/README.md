@@ -25,3 +25,9 @@ Projeto desenvolvido no Módulo 02 da [RocketSeat GoStack Bootcamp](https://rock
 -  [Yup](https://www.npmjs.com/package/yup)
 -  [VS Code][vc] with [ESLint][vceslint]
 
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
